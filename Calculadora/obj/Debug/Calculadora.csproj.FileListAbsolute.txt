@@ -1,0 +1,7 @@
+E:\Aulas2021\CursoC#VictorLima\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Aulas2021\CursoC#VictorLima\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Aulas2021\CursoC#VictorLima\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Aulas2021\CursoC#VictorLima\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+E:\Aulas2021\CursoC#VictorLima\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\Aulas2021\CursoC#VictorLima\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Aulas2021\CursoC#VictorLima\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
